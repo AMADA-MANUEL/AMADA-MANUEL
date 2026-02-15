@@ -3,11 +3,14 @@
 
 💻 Software Engineering Enthusiast | ☕ Java & Spring Boot Developer | 📊 Data & API Builder | 🌍 Community Builder
 
-🎓 __Studied At__ : https://wethinkcode.co.za
+🎓 __Studied At__ : https://wethinkcode.co.za 🎓
 
 🌱 **Currently Learning**🌱
+
 🌈Advanced Spring Boot & Microservices
+
 🌈System Design Principles
+
 🌈API Security & Authentication (JWT, OAuth)
 
 
