@@ -10,9 +10,6 @@
 🌈System Design Principles
 🌈API Security & Authentication (JWT, OAuth)
 
-## 📊 GitHub Stats
-
-[![Amada's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMADA-MANUEL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
