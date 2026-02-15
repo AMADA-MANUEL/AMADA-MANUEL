@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 
-![Amada's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMADA-MANUEL&show_icons=true&theme=tokyonight)
+[![Amada's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMADA-MANUEL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
